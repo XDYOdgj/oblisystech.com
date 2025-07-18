@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://oblisystech.com/sitemap.xml
